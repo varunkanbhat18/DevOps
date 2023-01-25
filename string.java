@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StringLength
+public class string
 {
    public static void main(String[] args)
    {
